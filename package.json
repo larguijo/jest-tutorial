@@ -24,7 +24,7 @@
   "devDependencies": {
     "jest": "^26.0.1",
     "webpack": "^4.20.2",
-    "webpack-cli": "^3.1.2"
+    "webpack-cli": "^3.3.12"
   },
   "dependencies": {
     "puppeteer": "^3.3.0"
